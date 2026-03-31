@@ -1,4 +1,4 @@
-# Grade Mailer
+# GradeMaler
 
 Simple script to send course grades from Google Sheets through the Gmail API.
 
@@ -62,7 +62,7 @@ GOOGLE_OAUTH_CREDENTIALS_JSON="/path/to/credentials.json"
 GOOGLE_OAUTH_TOKEN_JSON="/path/to/token.json"
 GOOGLE_SHEETS_SPREADSHEET_URL="https://docs.google.com/spreadsheets/d/.../edit?gid=0#gid=0"
 GOOGLE_SHEETS_WORKSHEET="VeryFirstTest"
-EMAIL_SUBJECT="Your grade for {sheet_name}"
+EMAIL_SUBJECT="Your result for {sheet_name}"
 EMAIL_BODY_TEMPLATE_FILE="email_template.txt"
 ```
 
