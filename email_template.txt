@@ -1,0 +1,8 @@
+Hello {name},
+
+Your result for {sheet_name} is: {grade}.
+
+If you have any questions, feel free to reply to this email.
+
+Best regards,
+Course Team
